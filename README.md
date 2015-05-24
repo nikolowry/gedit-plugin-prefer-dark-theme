@@ -9,7 +9,7 @@ Install the plugin by cloning and running the install script:
 $ git clone https://github.com/nikolowry/gedit-plugin-prefer-dark-theme.git
 $ cd gedit-plugin-prefer-dark-theme && ./install.sh
 ```
-Alternatively - you can download this repo's arcihved package, uncompress it and manually copy the "prefer-dark-theme" folder to Gedit's plugins directory which is typically located in "~/.local/share/gedit/plugins"
+Alternatively - you can download the latest [release package](https://github.com/nikolowry/nikolowry/gedit-plugin-prefer-dark-theme/releases), uncompress it and manually copy the "prefer-dark-theme" folder to Gedit's plugins directory which is typically located in your user's home directory at "~/.local/share/gedit/plugins"
 
 ##Post Install
 If Gedit is running during installation, it must be restarted for the plugin to be enabled. 
