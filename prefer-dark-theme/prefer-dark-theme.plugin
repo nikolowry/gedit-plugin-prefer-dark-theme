@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=prefer-dark-theme
+IAge=3
+Name=Prefer Dark Theme
+Description=Prefer Gedit's dark theme by default
+Authors=Niko Lowry <nikolowry@gmail.com>
+Copyright=Public Domain
+Version=3.17.0
+Website=https://www.github.com/nikolowry/gedit-plugin-prefer-dark-theme
+

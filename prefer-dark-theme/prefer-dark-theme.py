@@ -1,6 +1,6 @@
 from gi.repository import GObject, Gedit, Gtk
 
-class PreferDarkPlugin(GObject.Object, Gedit.WindowActivatable):
+class PreferDarkThemePlugin(GObject.Object, Gedit.WindowActivatable):
     __gtype_name__ = "PreferDarkPlugin"
 
     window = GObject.property(type=Gedit.Window)
